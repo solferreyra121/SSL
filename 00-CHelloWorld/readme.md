@@ -1,4 +1,4 @@
 - MinGW-w64 con GCC
-- GCC 11.4.0 64-bit
+- GCC 14.2.0
 - GNU C17
 
